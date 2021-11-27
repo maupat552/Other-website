@@ -447,7 +447,7 @@ ul.disc li::before {
   width: 8px;
   height: 8px;
   border-radius: 50%;
-  background: #3b0d11;
+  background: #0000FF;
   position: absolute;
   left: -16px;
   top: 11px;
@@ -456,7 +456,7 @@ ul.disc li::before {
 
 dt {
   margin: 0;
-  color: #3b0d11;
+  color: #0000FF;
 }
 
 dd {
@@ -940,7 +940,7 @@ textarea:-webkit-autofill:focus,
 select:-webkit-autofill,
 select:-webkit-autofill:hover,
 select:-webkit-autofill:focus {
-  -webkit-text-fill-color: #3b0d11;
+  -webkit-text-fill-color: #0000FF;
   transition: background-color 5000s ease-in-out 0s;
 }
 
@@ -999,8 +999,8 @@ button.btn--primary,
 input[type="submit"].btn--primary,
 input[type="reset"].btn--primary,
 input[type="button"].btn--primary {
-  background: #3b0d11;
-  border-color: #3b0d11;
+  background: #0000FF;
+  border-color: #0000FF;
   color: #ffffff;
 }
 
@@ -1219,7 +1219,7 @@ input::-moz-focus-inner {
 }
 
 .stats-tabs li a:hover {
-  color: #3b0d11;
+  color: #0000FF;
 }
 
 .stats-tabs li a em {
@@ -1631,8 +1631,8 @@ input::-moz-focus-inner {
 
 .events-list__item-title a:hover,
 .events-list__item-title a:focus {
-  color: #3b0d11;
-  border-bottom: 1px solid #3b0d11;
+  color: #0000FF;
+  border-bottom: 1px solid #0000FF;
 }
 
 .events-list__meta {
@@ -1720,7 +1720,7 @@ input::-moz-focus-inner {
   font-weight: 700;
   text-align: center;
   color: #ffffff;
-  background-color: #3b0d11;
+  background-color: #0000FF;
   height: 4.8rem;
   width: 4.8rem;
   line-height: 4.8rem;
@@ -3177,8 +3177,8 @@ html.no-csstransitions .hero-content {
 }
 
 .footer-logo img {
-  width: 138px;
-  height: 36px;
+  width: 100px;
+  height:100px;
 }
 
 /* -------------------------------------------------------------------
@@ -3516,7 +3516,7 @@ html.no-csstransitions .hero-content {
 .event-meta strong {
   font-family: "Open Sans", sans-serif;
   margin-right: 1.2rem;
-  color: #3b0d11;
+  color: #0000FF;
 }
 
 .event-meta strong::after {
